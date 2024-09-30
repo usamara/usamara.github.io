@@ -16,6 +16,8 @@ For details click [link](https://github.com/usamara/IPL-stands-for-Indian-Premie
 According to the ACLU’s original analysis, marijuana arrests now account for over half of all drug arrests in the United States. Of the 8.2 million marijuana arrests between 2001 and 2010.
 The primary goal is to analyze trends, patterns, and disparities in marijuana-related arrests, considering various demographic factors and changes in legislation over time.
 
+For details click [Link](https://github.com/usamara/Marijuana-Arrest/blob/main/README.md)
+
 ## 3. EDA Analysis: Personality Prediction 
 The organization needs to classify the individuals based on their personality traits. The availability of high dimensional and large amounts of date has paved the way for increasing the effectiveness of marketing campaigns by targeting specific people. This will increase the popularity and attractiveness of products and services. Some common examples: 
 1. Personalizing the online advertisement campaigns. 
