@@ -4,12 +4,12 @@ My name is Rajib Ratan Samanta. As a seasoned professional with over 17 years of
 I excel in managing, leading, and mentoring software development and support teams, fostering a collaborative environment that promotes innovation and efficiency. My experience spans diverse business verticals, including energy, telecommunications, finance, government, and retail, giving me a comprehensive understanding of each sector's unique challenges and opportunities.
 
 In this portfolio, you will find examples of my data science-related sample project works.
-For details click [link:](https://github.com/usamara/IPL-stands-for-Indian-Premier-League/tree/main)  
 
 ## 1. EDA Analysis: IPL stands for Indian Premier League
 IPL is a twenty-20 cricket tournament played by cricket players from all over the world. BCCI is responsible for arranging and managing the IPL.
 IPL was introduced by BCCI in the year 2008 and since then IPL has been played in India every year. There are players from different countries made to play for       one team, depending on the performance the teams will qualify for the semi-finals and then the Final tournament.
 We will do an Exploratory Data Analysis (EDA) of the Indian Premier League (IPL), one of the most popular cricket leagues globally. We will analyze the IPL           dataset, which includes various statistics related to matches, players, teams, and performances over the years.
+For details click [link:](https://github.com/usamara/IPL-stands-for-Indian-Premier-League/tree/main)  
 ## 2. Data Exploration on Marijuana Arrests(D.C) & NYPD 
 According to the ACLU’s original analysis, marijuana arrests now account for over half of all drug arrests in the United States. Of the 8.2 million marijuana arrests between 2001 and 2010.
 The primary goal is to analyze trends, patterns, and disparities in marijuana-related arrests, considering various demographic factors and changes in legislation over time.
