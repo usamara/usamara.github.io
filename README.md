@@ -10,7 +10,7 @@ IPL is a twenty-20 cricket tournament played by cricket players from all over th
 IPL was introduced by BCCI in the year 2008 and since then IPL has been played in India every year. There are players from different countries made to play for       one team, depending on the performance the teams will qualify for the semi-finals and then the Final tournament.
 We will do an Exploratory Data Analysis (EDA) of the Indian Premier League (IPL), one of the most popular cricket leagues globally. We will analyze the IPL           dataset, which includes various statistics related to matches, players, teams, and performances over the years.
 
-For details click [link:](https://github.com/usamara/IPL-stands-for-Indian-Premier-League/tree/main)  
+For details click [link](https://github.com/usamara/IPL-stands-for-Indian-Premier-League/tree/main)  
 
 ## 2. Data Exploration on Marijuana Arrests(D.C) & NYPD 
 According to the ACLU’s original analysis, marijuana arrests now account for over half of all drug arrests in the United States. Of the 8.2 million marijuana arrests between 2001 and 2010.
