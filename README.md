@@ -43,6 +43,8 @@ For details click [Link](https://github.com/usamara/U.S.-retail-sales)
 ## 6. Predictive Analytics: Movie recommendation system using MovieLens data 
 In this project using the MovieLens data set, create a recommender system that allows users to input a movie they like (in the data set) and recommends ten other movies for them to watch. This will provide personalized recommendations, enhancing the user experience in selecting films.
 
+For details click [Link](https://github.com/usamara/Movie-recommendation-system-using-MovieLens-data)
+
 ## 7. Predicting Diabetes and Prediabetes Given Various Health and Lifestyle Factors
 The project aims to address the challenge of predicting the risk of diabetes and prediabetes among individuals based on a range of health indicators and lifestyle factors. The primary question revolves around developing machine learning models capable of accurately identifying individuals who are at risk of developing diabetes or prediabetes based on their demographic information, health metrics, and lifestyle habits. And lastly, healthcare providers can implement targeted interventions and preventive measures to reduce the incidence of diabetes and its associated complications.
 Our project aims to address a few key questions:
