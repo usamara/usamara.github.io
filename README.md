@@ -24,7 +24,7 @@ The organization needs to classify the individuals based on their personality tr
 2. Incorporate a personality-based approach to increase the attractiveness of recommended products. 
 3. Personality-based adaptations can also provide personalized visualization and better music recommendations.
    
-For details click [Link](ttps://github.com/usamara/Personality-Prediction/blob/main/README.md)
+For details click [Link](https://github.com/usamara/Personality-Prediction/blob/main/README.md)
 
 ## 4. Data Exploration & Clustering on ALS patient data
 The analysis aimed to uncover patterns and relationships within ALS patient data by combining K-means clustering and PCA. The silhouette score plot was used to determine the optimal number of clusters, and a K-means model was applied to assign cluster labels to the data. PCA was then employed to reduce the dimensionality of the data for visualization. The scatterplot of the PCA-transformed data with cluster colors provides insights into the grouping of ALS patients based on the identified features. 
