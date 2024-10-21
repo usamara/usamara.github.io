@@ -36,6 +36,10 @@ For details click [Link](https://github.com/usamara/Data-Exploration-Clustering-
 ## 5.Predictive Analytics: U.S. retail sales
 We will use a Kaggle data set that will give the total monthly retail sales in the US from January 1992 until June 2021. 
 This project aims to perform predictive analytics on U.S. retail sales data to identify trends, forecast future sales, and derive actionable insights for retailers and stakeholders. By leveraging historical sales data, the project will utilize machine learning techniques to build robust models that can predict future retail performance.
+
+For details click [Link](https://github.com/usamara/U.S.-retail-sales)
+
+
 ## 6. Predictive Analytics: Movie recommendation system using MovieLens data 
 In this project using the MovieLens data set, create a recommender system that allows users to input a movie they like (in the data set) and recommends ten other movies for them to watch. This will provide personalized recommendations, enhancing the user experience in selecting films.
 
