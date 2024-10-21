@@ -23,6 +23,7 @@ The organization needs to classify the individuals based on their personality tr
 1. Personalizing the online advertisement campaigns. 
 2. Incorporate a personality-based approach to increase the attractiveness of recommended products. 
 3. Personality-based adaptations can also provide personalized visualization and better music recommendations.
+   
 For details click [Link](ttps://github.com/usamara/Personality-Prediction/blob/main/README.md)
 
 ## 4. Data Exploration & Clustering on ALS patient data
