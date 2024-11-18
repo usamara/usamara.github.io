@@ -53,6 +53,8 @@ Our project aims to address a few key questions:
 - Is the BRFSS, as currently constructed, the best remote diagnosis tool at our disposal?
 - Could we remove questions from the BRFSS or add entirely new ones to create an even better or just as good model for prediction?
 
+  For details click [Link](https://github.com/usamara/Predicting-of-Diabetes-and-Prediabetes-Given-Various-Health-and-Lifestyle-Factors/tree/main)
+
 ## 8. EDA Analysis: Data Scientist Salary
 With a focus on various aspects of employment, including work experience, job titles, and company locations, this dataset provides valuable insights into salary distributions within the industry. 
 
