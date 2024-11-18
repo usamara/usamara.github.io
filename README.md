@@ -58,6 +58,9 @@ Our project aims to address a few key questions:
 ## 8. EDA Analysis: Data Scientist Salary
 With a focus on various aspects of employment, including work experience, job titles, and company locations, this dataset provides valuable insights into salary distributions within the industry. 
 
+  For details click [Link](https://github.com/usamara/Salary-of-Data-Scientists)
+
+
 ## 9. EDA Analysis: MLB league recommendation to management on how to improve attendance 
 Using data on the Los Angeles Dodgers Major League Baseball (MLB) team, make a recommendation to management on how to improve attendance. Tell a story with EDA analysis and clearly explain the steps for management as an action point.
 
