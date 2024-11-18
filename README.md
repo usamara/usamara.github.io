@@ -67,6 +67,10 @@ Using data on the Los Angeles Dodgers Major League Baseball (MLB) team, make a r
   For details click [Link](https://github.com/usamara/MLB-league-recommendation-to-management)
 
 
-## 10. Data Presentation & Visualization: Crime Rate by State
-The objective is to provide clear and insightful visual representations of crime data to facilitate understanding of trends, comparisons, and disparities in crime rates among states.
+## 10. Exploring Prediction- Survival on the Titanic
+This project aims to analyze whether passengers survived the Titanic disaster based on various input parameters and features. Features such as passenger class, fare, age, gender & family size.
+
+The project will study and analyze to better assess risks associated with maritime travel. Identify the key factors that contributed to survival during the Titanic disaster. Understanding these can help in risk assessment for future travel ventures or emergency planning in the hospitality and travel industries.
+
+ For details click [Link](https://github.com/usamara/Exploring-Prediction--Survival-on-the-Titanic-/tree/main)
 
