@@ -64,6 +64,9 @@ With a focus on various aspects of employment, including work experience, job ti
 ## 9. EDA Analysis: MLB league recommendation to management on how to improve attendance 
 Using data on the Los Angeles Dodgers Major League Baseball (MLB) team, make a recommendation to management on how to improve attendance. Tell a story with EDA analysis and clearly explain the steps for management as an action point.
 
+  For details click [Link](https://github.com/usamara/MLB-league-recommendation-to-management)
+
+
 ## 10. Data Presentation & Visualization: Crime Rate by State
 The objective is to provide clear and insightful visual representations of crime data to facilitate understanding of trends, comparisons, and disparities in crime rates among states.
 
